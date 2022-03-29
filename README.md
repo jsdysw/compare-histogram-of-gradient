@@ -26,7 +26,7 @@ mag, angle = cv2.cartToPolar(gx,gy, angleInDegrees=True)
 ```
 
 4. Make the histogram of gradient. 
-<img width="215" alt="image" src="https://user-images.githubusercontent.com/76895949/160588494-b39d3ff2-55e3-4f75-8668-8bb405907db6.png">
+<img width="400" alt="image" src="https://user-images.githubusercontent.com/76895949/160588494-b39d3ff2-55e3-4f75-8668-8bb405907db6.png">
 
 
 * **histogram-of-gradient.py** gets points' coordinates from users' mouth input at runtime but doesn't plot histogram
