@@ -5,8 +5,8 @@
 
 # Experiement Process
 
-* 1) select four pairs of patches of the same points (15 by 15)
-* 
+* 1. select four pairs of patches of the same points (15 by 15)
+
 <img width="150" alt="image" src="https://user-images.githubusercontent.com/76895949/160585761-b23c4f2d-b7d1-4893-8682-c3e23cdf4afb.png"><img width="150" alt="image" src="https://user-images.githubusercontent.com/76895949/160585782-be5236d8-17a4-4ade-8cda-9eac6d8b854c.png">
 
 * Sobel mask for each direction gx and gy (calculate gradient)
