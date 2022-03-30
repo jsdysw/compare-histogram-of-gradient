@@ -31,7 +31,7 @@ mag, angle = cv2.cartToPolar(gx,gy, angleInDegrees=True)
 
 * **histogram-of-gradient.py** gets points' coordinates from users' mouth input at runtime but doesn't plot histogram
 * **histogram-of-gradient.ipynb** gets points' coordinates at compile time but plots histogram
-* you can read more detailed documents by compare-histogram-of-gradient.pdf (in Korean)
+* you can read more detailed documents at compare-histogram-of-gradient.pdf (in Korean)
 
 # Result
 <img width="150" alt="image" src="https://user-images.githubusercontent.com/76895949/160544822-bc5228b1-008d-4721-b300-795fc8287ff9.png"><img width="150" alt="image" src="https://user-images.githubusercontent.com/76895949/160544838-777cc88d-37ea-41f8-8212-f9bb1b5224df.png">
